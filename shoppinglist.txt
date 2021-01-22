@@ -1,6 +1,6 @@
 potatoes
 apples
 carrots
-
+candy
 coffee
 chocolate
